@@ -2,7 +2,7 @@
 GEMASS Computational Sociology 
 ==============================
 
-This is the repository of the GEMASS lab. This french acronym stands for *Sorbonne Sociological Analysis Methods Study Group*. The lab is affiliated with Sorbonne University and CNRS, *National Centre for Scientific Research*. 
+This is the repository of the GEMASS lab. This french acronym stands for *Sociological Analysis Methods Study Group of Sorbonne*. The lab is affiliated with Sorbonne University and CNRS, *National Centre for Scientific Research*. 
 
 General description
 ___________________
